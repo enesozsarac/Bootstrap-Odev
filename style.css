@@ -136,12 +136,12 @@
   display: block;
 }
 
-.btn{
-    border: none;
+.button{
+  border: none;
+  background: none;
 }
 
 
-.btn a:hover {
+.button a:hover {
   color: #1bbc9c;
-  
 }
